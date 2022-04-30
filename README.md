@@ -1,4 +1,4 @@
-# client
+# isaqshoots
 
 ## Project setup
 ```
