@@ -1,5 +1,11 @@
 # isaqshoots
 
+A media gallery project based on MEVN stack and uses Cloudinary for storing media
+
+This is the Frontend, you can find the backend here - https://github.com/OmarA3Khan/Isaqshoots-V2
+
+You can find the app here - http://www.isaqshoots.com/
+
 ## Project setup
 ```
 npm install
